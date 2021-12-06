@@ -6,6 +6,12 @@ def main():
     print('NEW CHANGES')
     print('NEW CHANGES')
 
+    print('BRAND NEW CHANGES')
+    print('BRAND NEW CHANGES')
+    print('BRAND NEW CHANGES')
+    print('BRAND NEW CHANGES')
+    print('BRAND NEW CHANGES')
+
 
 if __name__ == '__main__':
     main()
