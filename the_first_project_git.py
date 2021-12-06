@@ -11,6 +11,10 @@ def main():
     print('BRAND NEW CHANGES')
     print('BRAND NEW CHANGES')
     print('BRAND NEW CHANGES')
+    
+    print('SOME SORT OF CHANGES')
+    print('SOME SORT OF CHANGES')
+    print('SOME SORT OF CHANGES')
 
 
 if __name__ == '__main__':
